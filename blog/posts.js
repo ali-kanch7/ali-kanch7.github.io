@@ -1,6 +1,14 @@
 // Auto-generated file. Do not edit.
 const blogPosts = [
   {
+    "slug": "../posts/when-the-cloud-breaks-building-network-failover-strategies-for-saas-dependent-enterprises",
+    "title": "When the Cloud Breaks: Building Network Failover Strategies",
+    "tag": "Security",
+    "excerpt": "Read the latest article.",
+    "date": "July 2026",
+    "readTime": "4 min read"
+  },
+  {
     "slug": "../posts/understanding-edge-computing-security-challenges",
     "title": "Understanding Edge Computing Security Challenges",
     "tag": "Security",
